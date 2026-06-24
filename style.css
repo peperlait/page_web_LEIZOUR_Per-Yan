@@ -1,31 +1,31 @@
+main {
+    margin: 20px;
+}
+
 h1 {
     color: white;
     font-size: 3em;
     text-align: center;
-    background-color: #D40D74;
-    background-position: center;
+    margin: auto;
+    padding: auto;
 }
 
-p li {
+p {
     font-family: Arial, Helvetica, sans-serif;
-
 }
 
 a {
-    color: #ff5fa4;
+    color: white;
     text-decoration: none;
+    padding: 10px;
 }
 
 a:hover {
-    color: #ff2e90;
+    color: #ffe5f1;
 }
 
 a:active {
-    color: #D40D74;
-}
-
-a:visited {
-    color: #D40D74;
+    color: #ffbbde;
 }
 
 body {
@@ -60,4 +60,48 @@ img:hover[class="document"] {
 img:hover[class="photo"] {
     height: 160px;
     width: 160px;
+}
+
+.banniere {
+    background-color: #D40D74;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+
+footer {
+    color: white;
+    background-color: #D40D74;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    padding: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+
+.licence_img {
+    width: 100px;
+}
+
+.licence {
+    color: white;
+    background-color: #D40D74;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 10px;
 }
