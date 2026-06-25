@@ -1,5 +1,4 @@
 .banniere {
-    background-color: #ff71ac;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -8,7 +7,6 @@
     padding: 15px;
     align-items: center;
     flex-wrap: wrap;
-    border-radius: 10px;
 }
 
 h1 {
@@ -20,7 +18,8 @@ h1 {
 }
 
 main {
-    margin: 20px;
+    background-color: #ffcfe3;
+    padding: 20px;
 }
 
 p {
@@ -42,7 +41,8 @@ a:active {
 }
 
 body {
-    background-color: #ffd6e7;
+    background-color: #ff71ac;
+    margin: 0%;
 }
 
 .document {
@@ -87,7 +87,6 @@ img:hover[class="photo"] {
 
 footer {
     color: white;
-    background-color: #ff71ac;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -96,7 +95,6 @@ footer {
     padding: 10px;
     align-items: center;
     flex-wrap: wrap;
-    border-radius: 10px;
 }
 
 .contacts {
