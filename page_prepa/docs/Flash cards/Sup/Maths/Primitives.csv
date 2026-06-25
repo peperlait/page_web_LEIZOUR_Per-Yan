@@ -1,0 +1,3 @@
+Integration par parties,"intégral(a, b)(u(t) • v’(t) dt) = [u(t) • v(t)](a, b) - intégral(a, b)(u’(t) • v(t) dt)"
+Primitive de ln(x),x • ln(x) - x
+Primitive de tan(x),-ln|cos(x)|

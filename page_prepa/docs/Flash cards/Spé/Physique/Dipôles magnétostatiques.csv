@@ -1,0 +1,11 @@
+Champ magnétique créé par un dipôle magnétostatique,vec(B) = 2mu0 • mu • cos(theta) / (4 • pi • r^3) • vec(ur) + mu0 • mu • sin(theta) / (4 • pi • r^3) • vec(utheta)
+Energie potentielle d’un dipôle magnétostatique dans un champ extérieur,Ep = - vec(mu) • vec(B)
+Magneton de Bohr,muN = e • (h/2pi) / (2 • m)
+Moment cinetique pour un dipôle magnétique,"vec(mu) = gamma • vec(L)
+
+Avec gamma le rapport gyromagnétique"
+Moment des forces de Laplace sur un dipôle magnétostatique,vec(M)(A) = vec(mu) ^ vec(B)(A)
+Moment magnétique d’une boucle de courant,vec(mu) = I • vec(S)
+Resultante des forces de Laplace sur un dipôle magnétostatique,"vec(grad)(vec(mu) • vec(B))
+
+En considérant mu indépendant de vec(B)"

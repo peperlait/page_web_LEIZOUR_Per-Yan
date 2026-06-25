@@ -1,0 +1,11 @@
+"Formule de Taylor-Young à l’ordre 2 pour f in C^2(U,R) en a in U ou U est un ouvert de R^n",f(a + h) =(||h|| -> 0) f(a) + (Delta(f)(a)|h) + 1/2 • h^T • Hf(a) • h + o(||h||^2)
+"Matrice hessienne de f in C^2(U, R) en a in U ou U est un ouvert de R^n","Hf(a) = (drond^2f/drondxidrondxj(a))i,j in [|1, n|]"
+Règle de la chaine,"Soit f in C^1(U, R) ou U est un ouvert de R^n. Soit phi in C^1(R, U) tq pt x in R:
+- phi(x) = (phi1(x), …, phin(x))
+
+En posant g = f o phi on a pt x in R :
+- g’(x) = sum(j = 1, n)(phij’(x) • drondf/drondxj(phi(x)))"
+Théorème fondamental du calcul différentiel,"f in C^1(U, R) a in U
+f(a + h) = f(a) + dfa(h) + o(||h||)
+
+Ou dfa(h) = sum(j = 1, p)(hj • drondf/drondxj(a)"

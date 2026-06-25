@@ -1,0 +1,9 @@
+Application u canoniquement associé à une matrice A,"B, C les bases canoniques de K^p, K^n
+
+u in L(K^p, K^n) telle que :
+MatB,C(u) = A"
+"Caracterisation de Im(A) avec les colonnes C1, …, Cp de A","Im(A) = Vect(C1, …, Cp)"
+Changement de base d’une application linéaire,"MatB’, C’(u) = Pass(C’, C) • MatB, C(u) • Pass(B, B’)"
+Rang d’une matrice A,"rg(A) = rg(C1, …, Cp) = rg(L1, …, Ln) = dim(Im(A)) = rg(u)
+
+Avec u l’application linéaire canoniquement associée à A"

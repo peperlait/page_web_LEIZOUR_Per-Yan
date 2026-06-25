@@ -133,9 +133,19 @@ footer {
         width: 200px;
     }
 
+    img:hover[class="photo"] {
+        height: 215px;
+        width: 215px;
+    }
+
     .document {
         height: 200px;
         width: 200px;
+    }
+
+    img:hover[class="document"] {
+        height: 215px;
+        width: 215px;
     }
 
     .social {

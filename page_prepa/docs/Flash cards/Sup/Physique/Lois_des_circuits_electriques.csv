@@ -1,0 +1,25 @@
+Caractéristiques d’une diode usuele,"Tension seuil : 0,6 V
+Resistance en direct : 10 Ohm
+Resistance en inverse : 10^9 Ohm"
+Charge élémentaire e,"1,602 • 10^{-19} C"
+Force électrique,vec(F) = q • vec(E(M))
+Ordre de grandeur capacités,"Usueles : 1 pF à 1 mF
+Capacité d’entrée oscilloscope : 10 pF
+Capacité lineique d’un canle coaxial : 100 pF/m"
+Ordre de grandeur de la masse d'un nucléon,"Mn = 2 * 10^{-27} kg
+
+Mn = 1000Me"
+Ordre de grandeur inductances,Usueles : 1 mH à 10 H
+Ordre de grandeur resistances,"Usueles : 1 Ohm à 1 MOhm
+Resitance de sortie GBF : 50 Ohm
+Resistance d’entrée oscilloscope : 1 MOhm
+Resistance d’entrée voltmètre : 10 MOhm"
+Orientation d’une tension,
+Pont diviseur de courant,"I1 = (R2 • I) / (R1 + R2)
+I2 = (R1 • I) / (R1 + R2)"
+Pont diviseur de tension,"U1 = (R1 • U) / (R1 + R2)
+U2 = (R2 • U) / (R1 + R2)"
+Puissance d’un dipole électrique,"P = U • I
+Recue algebriquement en convention recepteur
+
+Fournie algebriquement en convention generateur"

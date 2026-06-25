@@ -1,0 +1,11 @@
+1e principe industriel (pour les systèmes fermés en écoulement permanent),"(hs + 1/2 • vs^2 + ep,s) - (he + 1/2 • ve^2 + ep,e) = wu + q
+
+Dm((hs + 1/2 • vs^2 + ep,s) - (he + 1/2 • ve^2 + ep,e)) = Pu + Phi"
+2nd principe industriel (pour les systèmes fermés en écoulement permanent),"ss - se = q/Tmachine + scr
+
+Dm(ss - se) = Phi/Tmachine + dScr/dt"
+Bilan d’une grandeur extensive en regime stationnaire,dY = Dm • dt • (ys - ye)
+Indice de l’air,"n ≈ 1,0003"
+Indice de l’eau,"n ≈ 1,33"
+Indice du diamant,"n ≈ 2,4"
+Indice d’un verre usuel,"1,4 < n < 1,8"

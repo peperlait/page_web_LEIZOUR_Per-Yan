@@ -1,0 +1,4 @@
+Flux propre d’un circuit,phyp = L • i
+Inductance propre d’un solénoïde,L = nu0 • N^2 • S / l
+Loi courant tension pour une bobine soumise à une inductance mutuelle,U1 = L1 • di1/dt + M • di2/dt
+Transformation des tension dans un transformateur ideal,u2/u1 = N2/N1 = m si le courant arrive du meme cote

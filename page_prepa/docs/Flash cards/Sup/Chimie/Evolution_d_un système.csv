@@ -1,0 +1,6 @@
+Composition et pression de l’air,"80% de N2, 20% de O2, patm ≈ 1 bar ≈ 10^5 Pa"
+Fraction molaire et massique,"Molaire : xi = ni / ntot
+
+Massique : wi = mi / mtot"
+Loi de Dalton,"pi,g = xi,g • p = (ni,g / ntot,g) • p"
+Loi de Dalton dans le modèle du gaz parfait,"pi,g = (ni,g  • R • T) / V"

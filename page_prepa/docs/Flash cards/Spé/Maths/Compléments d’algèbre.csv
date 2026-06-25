@@ -1,0 +1,29 @@
+"(P•Q)(u) = …
+Avec P, Q in K[X] et u in L(E)","P(u) • Q(u)
+—> P(u) et Q(u) commutent"
+Base de E adapté a F,"B = (Bf, …) telle que Bf base de F"
+Caracterisation d’un sous espace vectoriel F stable par u,"L’image d’une famille génératrice de F par u dans F
+
+Il existe B telle que MatB(u) = (A | B // 0 | C)"
+Decomposition en somme directe de E,"(Ei)i in [|1, n|] tel que (+)(i = 1, n)(Ei) = E"
+"Definitions sum(i = 1, n)(Ei) en somme directe","pour tout x in sum(i = 1, n)(Ei) existe! (x1, …, xn) in prod(i = 1, n)(Ei), x = sum(i = 1, n)(xi)
+
+pour tout (x1, …, xn) in prod(i = 1, n)(Ei), sum(i = 1, n)(xi) = 0 => pour tout i in [|1, n|] xi = 0
+
+dim(sum(i = 1, n)(Ei)) = sum(i = 1, n)(dim(Ei))
+
+pour tout k in [|2, n|], Ek inter (sum(i = 1, k-1)(Ei)) = {0}"
+"dim(prod(i = 1, n)(Ei)) = …","… = sum(i = 1, n)(dim(Ei))"
+Polynôme de Lagrange,"Lk = prod(i in [|0, n|]\{k})((X - xi)/(xk - xi))
+(Lk) est une base de Kn[X]
+Lk(xj) = kroneckerkj
+Sum(i = 0, n)(Li) = 1"
+"Propriété de Af = {u in L(E), u(F) inclus dans F} E un K-e.v., dim(E) = n et F un s.e.v. de E","Af est un s.e.v. de L(E)
+dim(Af) = n^2 - dim(F) • (n - dim(F))"
+Propriétés de la trace,"tr in L(Mn(K), K)
+tr(A^T) = tr(A)
+tr(AB) = tr(BA)
+tr(P^{-1}AP) = tr(A)"
+Propriétés polynômes P d’un endomorphisme u in L(E),"P(u)F = P(uF) avec F stable par u
+
+Im(P(u)) et Ker(P(u)) stables par u"

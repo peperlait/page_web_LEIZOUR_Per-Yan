@@ -1,0 +1,21 @@
+Capacités thermiques de l’eau,"Liquide : 4,18 kJ • kg^{-1} • K^{-1}
+Solide : 2 kJ • kg^{-1} • K^{-1}"
+Coefficient isentropique pour un gaz parfait,"Monoatomique : gamma = 5/3
+Diatomique : gamma = 7/5"
+Constante de Boltzmann,kB = 1.38 • 10^{-23} J • K^{-1}
+Densité moléculaire typiques,"Gaz (air) : 10^25 m^{-3}
+Liquide (eau) : 10^29 m^{-3}"
+Détente de joule Thomson,"Derente adiabatique lente
+—> isenthalpique"
+Enthalpie massique de vaporisation et fusion de l’eau,"hv ≈ 2400 kJ • kg^{-1}
+hf ≈ 330 kJ • kg^{-1}"
+Lois de Joule,"(1) : l’énergie interne d’un gaz ne dépend que de la température
+(2) : l’enthalpie d’un gaz ne depend que de la température
+
+(1) ^ (2) <=> gaz parfait"
+Masse molaire de l’aire,29 g • mol^{-1}
+Masse molaire de l’eau,18 g • mol^{-1}
+Point critique de l’eau,"T = 374 °C
+P = 221 bar"
+Point triple de l’eau,"T = 273,16 K = 0,01 °C
+P  ≈ 600 Pa"

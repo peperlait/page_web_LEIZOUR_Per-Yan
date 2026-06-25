@@ -1,0 +1,14 @@
+(g o f)^{-1} = …,… = f^{-1} o g^{-1}
+bijection,"Pour tout y in F, existe! x in E, y = f(x)
+
+Pour tout (x, y) in E X F, y = f(x) <=> x = f^{-1}(y)
+
+existe! g in F(F, E), g o f = IdE et f o g = IdF, g = f^{-1}"
+Fonction indicatrice,"1A: E —> {0, 1}, x |—> (1 si x in A, 0 sinon)"
+Injection,"Pour tout (x1, x2) in E^2, f(x1) = f(x2) => x1 = x2"
+Recouvrement disjoint et partition,"Recouvrement disjoint : deux a deux disjoint et U(i in I)(Ai) = E
+
+Partition : deux a deux disjoints, non vides et U(i in I)(Ai) = E"
+Surjection,"Pour tout y in F, existe x in E, y = f(x)
+
+f in F(E, F), f(E) = F"

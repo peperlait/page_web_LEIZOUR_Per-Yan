@@ -1,0 +1,13 @@
+Conductivité d’un plasma,"En complexes : vec(j1) = gamma • vec(E1)
+
+gamma = -i • n0e • e^2 / (me • omega) = -i • epsilon0 • omegap^2 / omega
+
+omegap = sqrt(n0e • e^2 / (me • epsilon0))"
+Equation de diffusion dans champs électromagnétiques,"- Delta(vec(B)) = mu0 • gamma0 • drond(vec(B))/drondt
+
+- Delta(vec(E)) = mu0 • gamma0 • drond(vec(E))/drondt"
+Equation de propagation d’une onde dans un plasma,Delta(vec(E1)) = mu0 • drond(vec(j1))/drondt + epsilon0 • mu0 • drond^2(vec(E1))/drondt^2
+Equation des electrons dans un plasma,me • drond(vec(v1))/drondt = -e • vec(E1)
+Indice complexe d’un plasma,k(omega) = n(omega) • omega / c
+Relation de dispersion d’un plasma,k^2 = (omega^2 - omegap^2) / c^2
+Épaisseur de peau d’un champ EM,delta(w) = sqrt(2 / (mu0 • gamma0 • w))

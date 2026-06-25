@@ -1,0 +1,13 @@
+Inégalité de Taylor-Lagrange,"f in C^{n + 1}(I), a in I
+existe M in R^+, pour tout t in I, |f^(n + 1)(t)| =< M
+
+pour tout x in I, |f(x) - sum(k = 0, n)(f^(k)(a)/k! • (x - a)^k| =< M • |x - a|^{n + 1} / (n + 1)!"
+Inégalité triangulaire intégrale généralisé,"f continue sur I, a, b in I,
+
+|integrale(a, b)(f)| =< |integrale(a, b)|f||"
+Sommes de Riemmann,"S1 = (b - a) / n • sum(k = 0, n - 1)(f(a + k • (b - a) / n))
+
+S2 = (b - a) / n • sum(k = 1, n)(f(a + k • (b - a) / n))
+
+limS1 = limS2 = integrale(a, b)(f)
+AVEC f CONTINUE"

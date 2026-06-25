@@ -1,0 +1,23 @@
+Approximation d’Elligham,Pout tout intervalle de température sans changement d’état DeltarH^0 est constant
+Definition molalité,"mA = nA / mS
+mS : masse du solvant"
+Definition transformation endothermique,DeltarH^0 > 0
+Definition transformation exothermique,DeltarH^0 < 0
+Definition équilibre chimique,La composition de chaque phase est uniforme
+DeltafH^0(H^+(aq)) = …,… = 0
+DeltarH = …,"… = (drondH/drondKsi)T,P = sum(i)(mui • hi)"
+Enthalpie standard de formation DeltafH^0 d’une espèce,Grandeur standard DeltarH^0 associé a la reaction de formation
+"Etat standard de reference de H, N, O, F, Cl",Composé diatomique considéré comme un gaz parfait pris pur pour P^0 = 10^5 Pa
+Etat standard de reference d’un element,Etat standard du corps pur simple de plus faible atomicité le plus stable a la température considérée
+Etat standard du carbone,Carbone graphite sous une pression P^0 = 10^5 Pa
+Etat standard d’un constituant d’une phase condensée,Corps pur dans le meme etat physique a la meme température a P^0
+Etat standard d’un constituant gazeux,Gaz parfait a la meme température a P^0
+Etat standard d’un soluté d’une solution,Soluté infiniment dilué a la meme température a P^0
+Grandeure molaire partielle,"Pour une grandeur extensive Y
+
+yi = (drondY/drondni)T,P,nj"
+Loi de Hess,"DeltarH^0(R) = sum(k)(ak • DeltarH^0(Rk))
+
+A partir des grandeurs de formation:
+DeltarH^0(R) = sum(i)(mui • DeltarH^0(Ri))"
+Reaction de formation d’une espèce physico-chimie,Reaction de formation d’une mole de cette espèce à partir des elements qui la constituent pris dans leur état de reference 

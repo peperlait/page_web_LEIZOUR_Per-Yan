@@ -1,0 +1,19 @@
+Définition force conservative et expression,"Travail indépendant de la trajectoire
+Ne dépend que de la position du système
+
+vec(F) = - dEp/dr • vec(ur) = - vec(grad(Ep))"
+Définition isochronisme des oscillations,La période et indépendante de l’amplitude
+Loi de la puissance cinétique,dEc/dt (t) = sum(i forces)(P(vec(Fi)))
+Nature du mouvement termes,"Mouvement bornée : état lié
+oscillation périodique
+région au voisinage du minimum local, puits de potentiel
+
+Mouvement non bornée : état de diffusion
+région au voisinage du maximum local, barrière de potentiel"
+Puissance d’une force vec(F),P(vec(F)) = vec(F) • vec(V)
+Pulsation des oscillations dans un puits de potentiel hormonique,w0 = sqrt(keff/m)
+Théorème de l’énergie cinétique,DeltaEc = sum(i forces)(WA->B(vec(Fi)))
+Théorème de l’énergie mécanique,"DeltaEm = sum(j forces n.c)(WA->B(vec(Fj)))
+
+dEm/dt (t) = sum(j forces n.c)(P(vec(Fj)))"
+Travail élémentaire et variation infinitésimale de l’énergie potentielle,deltaW(vec(F)) = - dEp = vec(F) • dvec(OM)

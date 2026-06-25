@@ -1,0 +1,45 @@
+Comparaison d’intégrales de fonctions positives,"Soient (a, b) in R x R_, (f, g) in CM(I, R)^2 avec I un intervalle d’extrémité a et b
+Si :
+- f ~ g ou f = o(g) ou f = O(g) au voisinage de b
+- g positive au voisinage de b
+
+Alors f et g sont de meme nature"
+"Convergence de int(0, 1)(ln(t) • dt)",Converge vers -1
+"f in L^1(I), g in CM(I, K) bornée conséquence",f • g in L^1(I)
+"f, g in L^2(I) conséquence ",f • g in L^1(I)
+"int(0, +infini)(exp(-a • t)dt) converge ssi …",… ssi a > 0
+Integrales de Riemann,"- int(1, + infini)(1/t^a • dt) converge ssi a > 1
+- int(a, b)(1/(t - a)^c • dt) et int(a, b)(1/(b - t)^c • dt) convergent ssi c < 1"
+Integration par partie généralisée,"Si [fg]ab converge alors int(a, b)(f’g) et int(a, b)(fg’) sont de meme nature et si elles convergent :
+In(a, b)(f’g) = [fg]ab - int(a, b)(fg’)"
+Théorème de continuité d’une integrale a paramètre,"Soit f in F(IxJ, K) avec I, J deux intervalles tq :
+- pt t in J x |—> f(x, t) in C^0(I, K)
+- pt x in I t |—> f(x, t) in CM(J, K)
+- HD : e phi in L^1(I, K), pt (x, t) in I, J |f(x, t)| =< phi(t)"
+Théorème de convergence dominée,"Soit (fn) in CM(I, K)^N tq:
+- (fn) CVS sur I vers f in CM(IK)^N
+- e phi in L^1(I, R), pt n in N pt t in I |fn(t)| =< phi(t)
+
+Alors les (fn) et f sont integrables sur I et :
+lim(n —> +infini)(int(I)(fn)) = int(I)(f)"
+Théorème de convergence dominée à paramètre continu,"Soient f: IxJ —> K et a une extrémité de I tq:
+- pt x in I t |—> f(x, t) in CM(J)
+- e g in CM(I, K), pt t in J lim(x->a)(f(x, t)) = g(t)
+- HD : e phi in L^1(J), pt (x, t) in IxJ |f(x, t)| =< phi(t)
+
+Alors pt x in I t |—> f(x, t) et g sont integrable sur I et:
+lim(x->a)(int(I)(f(x, t)dt) = int(I)(g(t)dt)"
+Théorème de dérivation d’une integrale a paramètres,"Soir k in N*, soit f: IxJ —> K tq:
+- pt t in J x |—> f(x, t) in C^k(I)
+- pt x in I pt p in [|0, k-1|] t |—> drond^pf/drondx^p est integrable sur J
+- pt x in I t |—> drond^kf/drondx^k in CM(J, K)
+- pt L=[a, b] in I e phiL integrable tq :
+pt (x, t) in LxJ |drond^kf/drondx^k(x, t)| =< phi(t)
+
+Alors g : x |—> int(I)(f(x, t)dt) est définie, de classe C^k sur I et pt p in [|0, k|] pt x in I g^{(p)}(x) = int(I)(drond^pf/drondx^p(x, t)dt)"
+Théorème d’intégration therme a terme sur un intervalle ,"Soit (fn) in L^1(I, K)^N tq:
+- sum(fn) CVS vers S in CM(I, K)
+- sum(int(I)(|fn|)) CV
+
+Alors S est integrable sur I et :
+int(I)(S) = sum(n = 0, +infini)(int(I)(fn))"

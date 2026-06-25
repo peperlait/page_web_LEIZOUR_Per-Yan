@@ -1,0 +1,43 @@
+<cos(w•t - phi(M)) • sin(w•t - phi(M))>t = …,… = 0
+<cos^2(w•t - phi(M)>t = <sin^2(w•t - phi(M)>t = …,… = 1/2
+Angle de diffraction,"theta = lambda0 / a
+Avec a la taille de l’obstacle"
+Caractéristiques d’un laser hélium-néon de lycée,"- Longueur d’onde : lambda = 632, 8 nm
+- Longueur de cohérence : Lc ≈ 1 m
+- Durée moyenne des trains d’ondes : tauc ≈ 10^{−7} s
+- Puissance : P ≈ 1 mW
+- Waist : w0 ≈ 0, 5 mm.
+- Divergence angulaire : θ ≈ 2 • 10^{−4} rad
+"
+Caractéristiques d’une raie d’une lampe spectrale,"- Longueur d’onde : lambda ≈ 500 nm.
+- Longueur de cohérence : LC ≈ quelques mm.
+- Période : T ≈ 10^{−14} s.
+- Durée moyenne des trains d’ondes : tauc ≈ 10^{−11} s.
+- Largeur spectrale : Deltalambda ≈ 50 pm.
+- Nombre d’oscillations par train d’ondes : N ≈ tauc /T ≈ 10^3
+"
+Cas d’un dephasage supplémentaire de pi,Reflexion ou passage par un point de convergence
+Chemin optique,"(AB) = c • tAB = integralle(M in GammaAM)(n(M) • dlM)
+GammaAM le rayon lumineux"
+Consequence du theoreme de Malus sur deux points conjugués,(AA’) est le meme le long de tous les rayons allant de A a A’
+Deltalamba / lambda0m = …,… = Deltanu / nu0m
+Divergence du faisceau gaussien,theta = w0 / zr = lambda0 / (pi • w0)
+Définition surface d’onde relative a S,M tels que (SM) ou Phi(M) constant
+Intensité lumineuse,"I(M) = <s^2(M, t)>t"
+Longueur d’onde de la raie verte intense du mercure,"546,1 nm"
+Longueur d’onde du doublet jaune du mercure,"577,0 - 579,1 nm"
+Longueur d’onde du doublet jaune du sodium,"589,0 - 589,6 nm"
+Longueur d’onde du laser helium-neon,"632,8 nm"
+Relation entre Deltanu la largeur de la bande de fréquence du spectre et tauc l’ordre de temps du signal,Deltanu • tauc ≈ 1
+Retard de phase accumulée le long du chemin optique,Phi(B) = Phi(A) + 2pi/lambda0 • (AB)
+Surface d’une sphère de rayon R,4piR^2
+Temps de réponse de l’oeil,"0,1 s"
+Theoreme de superposition,Si plusieurs vibrations se propagent simultanément dans l’espace chacune se propage comme si elle était seule et la vibration resultante est la somme des vibrations
+Théorème de Malus,Les surfaces d’ondes relatives au point sources S sont orthogonales aux rayons lumineux issus de S
+Vibration d’une onde plane monochromatique,"s(M, t) = a0 • cos(wt - vec(k) • vec(OM) - phi(O))"
+Vibration d’une onde sphérique monochromatique,"s(M, t) = alpha/r • cos(wt +-kr - phi0)"
+Vibration lumineuse pour une lumière non polarisée,Composente quelconque du champ électrique par rapport a un axe perpendiculaire a la direction de propagation
+Éclairement d’une onde,"E(M) = K • <s^2(M, t)>t
+—> puissance surfacique moyenne"
+Éclairement d’une onde sinusoïdale,"E(M) = K/2 • a^2(M) = K/2 |a(M)|^2
+Avec a(M) l’amplitude en M"

@@ -1,0 +1,15 @@
+Champ créé par un dipôle,2p • cos(theta) / (4pi • epsilon0 • r^3) • vec(ur) + p • sin(theta) / (4pi • epsilon0 • r^3) • vec(utheta)
+Couple percue par un dipôle dans un champ vec(E) en A,vec(MA) = vec(p) ^ vec(E)(A)
+Energie potentielle d’un dipôle rigide situé en A dans un champ,Ep(A) = - vec(p) • vec(E)(A)
+Force perçue par un dipôle dans un champ vec(E) en A ,vec(F) = (vec(p) • vec(grad))(vec(E))(A)
+Moment dipolaire,"a tq :
+vec(p) = a • epsilon0 • vec(E)
+Où E est le champ induit
+
+Pour l’hydrogène dans le modèle de Thomson :
+a = 4pi • R^3"
+Moment dipolaire de la molecule d’eau,"1,85 D"
+Moment dipolaire d’un dipôle,"vec(p) = q • vec(NP)
+Ou N et P sont les points ou la charge négative et positive sont situés"
+Potentiel créé par un dipôle,V(M) = p • cos(theta) / (4pi • epsilon0 • r^2) = vec(p) • vec(OM) / (4pi • epsilon0 • OM^3)
+Valeur d’un Debey,1 D = 1/3 • 10^{-29} C • m

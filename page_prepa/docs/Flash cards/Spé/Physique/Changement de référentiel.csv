@@ -1,0 +1,12 @@
+Définition du point coïncident de M à t0,"- vec(vR’)(P) = vec(0)
+- M(t0) = P(t0)"
+Loi de composition des accélérations,"vec(aR)(M) = vec(aR’)(M) + vec(ae)(M) + vec(ac)(M)
+
+Avec vec(ae)(M) l’accélération d’entraînement et vec(ac)(M) = 2 • vec(Omega) ^ vec(vR’)(M)
+- cas de translation vec(ae)(M) = vec(aR’/R)
+- cas de rotation vec(ae)(M) = - Omega^2 • vec(HM)"
+Loi de composition des vitesses,"vec(VR)(M) = vec(VR’)(M) + vec(Ve)
+
+Avec vec(Ve) la vitesse d’entraînement
+- cas de translation vec(Ve) = vec(VR’/R)
+- cas de rotation vec(Ve) = vec(Omega) ^ vec(OM)"
