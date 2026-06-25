@@ -1,5 +1,14 @@
-main {
-    margin: 20px;
+.banniere {
+    background-color: #D40D74;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 10px;
 }
 
 h1 {
@@ -8,6 +17,10 @@ h1 {
     text-align: center;
     margin: auto;
     padding: auto;
+}
+
+main {
+    margin: 20px;
 }
 
 p {
@@ -44,14 +57,6 @@ img:hover[class="document"] {
     width: 160px;
 }
 
-.social {
-    border-radius: 15px;
-    box-shadow: 3px 3px 0px black;
-    height: 50px;
-    width: 50px;
-    display: inline-block;
-}
-
 .photo {
     border-radius: 10px;
     height: 150px;
@@ -63,17 +68,21 @@ img:hover[class="photo"] {
     width: 160px;
 }
 
-.banniere {
+.licence {
+    color: white;
     background-color: #D40D74;
     background-size: cover;
     background-position: center;
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding: 15px;
+    flex-direction: column;
+    padding: 10px;
     align-items: center;
     flex-wrap: wrap;
     border-radius: 10px;
+}
+
+.licence_img {
+    width: 100px;
 }
 
 footer {
@@ -90,23 +99,6 @@ footer {
     border-radius: 10px;
 }
 
-.licence_img {
-    width: 100px;
-}
-
-.licence {
-    color: white;
-    background-color: #D40D74;
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    flex-direction: column;
-    padding: 10px;
-    align-items: center;
-    flex-wrap: wrap;
-    border-radius: 10px;
-}
-
 .contacts {
     display: flex;
     flex-direction: row;
@@ -115,13 +107,29 @@ footer {
     border-radius: 10px;
 }
 
+.social {
+    border-radius: 15px;
+    box-shadow: 3px 3px 0px black;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
 @media screen and (max-width: 1200px) {
-    p {
-        font-size: 2em;
+    h1 {
+        font-size: 5em;
     }
 
-    h1 {
+    h2 {
         font-size: 4em;
+    }
+
+    h3 {
+        font-size: 3em;
+    }
+
+    p {
+        font-size: 2em;
     }
 
     a {
