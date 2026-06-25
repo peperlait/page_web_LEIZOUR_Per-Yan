@@ -1,5 +1,5 @@
 .banniere {
-    background-color: #D40D74;
+    background-color: #ff71ac;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -42,12 +42,12 @@ a:active {
 }
 
 body {
-    background-color: #FFCFE3;
+    background-color: #ffd6e7;
 }
 
 .document {
     border-radius: 10px;
-    box-shadow: 5px 5px 0px #FF4F9B;
+    box-shadow: 5px 5px 0px #ff71ac;
     height: 150px;
     width: 150px;
 }
@@ -70,7 +70,7 @@ img:hover[class="photo"] {
 
 .licence {
     color: white;
-    background-color: #D40D74;
+    background-color: #ff71ac;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -82,12 +82,12 @@ img:hover[class="photo"] {
 }
 
 .licence_img {
-    width: 100px;
+    width: 150px;
 }
 
 footer {
     color: white;
-    background-color: #D40D74;
+    background-color: #ff71ac;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -154,6 +154,10 @@ footer {
     img:hover[class="document"] {
         height: 215px;
         width: 215px;
+    }
+
+    .licence_img {
+        width: 200px;
     }
 
     .social {
