@@ -1,0 +1,20 @@
+Energie d’un photon,"Domaine visible : 2,5 eV
+Domaine X : 10 keV
+Domaine gamma : 10 MeV"
+Flux surfacique moyen et champ électrique associé a un signal recu ou emis par un telephone,"Phi ~ 1 mW • m^{-2}
+E ~ 2 à 20 V • m^{-1}"
+Flux surfacique moyen et champ électrique associé au laser He-Ne,"Phi ~ 10^3 W • m^{-2}
+E ~ 10^3 V • m^{-1}"
+Flux surfacique moyen et champ électrique associé au soleil à la surface de la Terre,"Phi ~ 10^3 W • m^{-2}
+E ~ 10^3 V • m^{-1}"
+Four micro-ondes,"lambda ~ 10 cm
+f ~ 2,45 GHz"
+Nombre de photons par unité de volume,n = (1/2 • epsilon0 • E0^2) / (h • nu)
+Radar routier,"lambda ~ 10 mm
+f ~ 24 GHz"
+Radio Grandes Ondes (GO) ,"Lambda ~ 2 km
+f ~ 200 kHz"
+Radio modulation de fréquence (FM),"lambda ~ 3 m
+f ~ 100 MHz"
+Relation du champ EM pour des OPPH,"- (vec(k), vec(E), vec(B)) est une base orthogonale directe
+- vec(B) = 1/c • vec(n)^vec(E)"

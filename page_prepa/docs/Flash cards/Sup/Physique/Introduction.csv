@@ -1,7 +1,0 @@
-Incertitude composé par multiplication par une constante,u(z) = |a| • u(x)
-Incertitude composée par somme ou différence,u(z) = sqrt(u(x)^2 + u(y)^2)
-Incertitude composée par un produit de puissances,u(z) = |z| • sqrt(a^2 • (u(x) / x)^2 + b^2 • (u(y) / y)^2)
-Incertitude type A : incertitude d’une serie de valeur,u(moy(x)) = sx / sqrt(n)
-Incertitude type B : incertitude d’une valeur,u(x) = Delta / sqrt(3)
-z-score,z = |x1 - x2| / u(x1 - x2)
-Écart-type expérimental sx,"sx = sqrt((sommes(i = 1, n)(xi - moy(x))^2) / (n - 1))"

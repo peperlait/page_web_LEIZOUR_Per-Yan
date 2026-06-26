@@ -1,0 +1,25 @@
+Accélération d’une particule fluide en variable d’Euler,"vec(a) = Dvec(v)/Dt
+= drond(vec(v))/drondt + (vec(v) • vec(grad))(vec(v))
+= drond(vec(v))/drondt + vec(grad)(v^2/2) + vec(rot)(vec(v)) ^ vec(v)"
+Approximation des milieux continus,On peut définir une échelle mesoscopique ou les grandeurs définie par une valeur moyenne sont continues
+Caracterisations de l’ecoulement incompressible,"DV/Dt = 0 
+<=> div(vec(v)) = 0 
+<=> Dmu/Dt = 0 (si il y a conservation de masse)
+<=> M^2 << 1
+=> conservation du debit volumique
+
+Avec M le nombre de mac "
+Condition aux limites pour un fluide parfait à la surface d’une paroie ,"pt M in paroie vec(Vfluide(M, t)) • vec(nM) = vec(Vparoie(M, t)) • vec(nM)"
+Debit massique et debit volumique,"Dm = int(M in S)(vec(jm)(M) • vec(dSM))
+
+Dv = int(M in S)(vec(v)(M) • vec(dSM))"
+Definition écoulement irrotationel ou potentiel,"vec(rot)(vec(v)) = vec(0)
+<=> e Phi, vec(v) = vec(grad(Phi))"
+Description Eulerienne / Lagrangienne,"Eulerienne : On associe à chaque point les grandeurs physiques
+—> mécanique des fluides
+
+Lagrangienne : On associe à chaque particule fluide les grandeurs physiques
+—> mécanique"
+div(vec(v)) = …,1/V • DV/Dt
+Equation de conservation de masse,Dmu/Dt + mu • div(vec(v)) = 0
+Vecteur densité de courant de masse,vec(jm) = mu • vec(v)

@@ -1,0 +1,22 @@
+Energie électromagnétique,"uEM = uE + uM
+uE = epsilon0/2 • E^2
+uB = 1/2mu0 • B^2"
+Equation de Maxwell-Ampere,vec(rot)(vec(B)/mu0) = vec(j) + epsilon0 • drondvec(E)/drondt
+Equation de Maxwell-Faraday,vec(rot)(vec(E)) = - drondvec(B)/drondt
+Equation locale de Poynting,dronduEM/drondt + div(vec(Pi)) = -(vec(j) • vec(E))
+Equations dans l’ARQS magnétique,"(MA) : vec(rot)(vec(B)/mu0) = vec(j)
+div(vec(j)) = 0"
+Equations de propagation des champs électromagnétiques,"Delta(vec(E)) = 1/c^2 • drond^2vec(E)/drondt^2
+
+Delta(vec(B)) = 1/c^2 • drond^2vec(B)/drondt^2"
+Loi de Faraday,"C = -dphi/dt
+
+Pour la circulation de E le long d’un contour et le flux de B a travers ce contour"
+Théorème d’Ampere généralisé,"CB(t) = mu0 • IS(t) + epsilon0 • mu0 • dPhiE/dt(t)
+
+CB : circulation de B le ling d’un contour
+IS : courant à travers une surface S reposant sur le contour
+PhiE : flux à travers S reposant sur le contour"
+Vecteur de Poynting,"vec(Pi) = vec(E) ^ vec(B) / mu0
+= c • uem • vec(n) pour une OPPH de direction vec(n)
+"

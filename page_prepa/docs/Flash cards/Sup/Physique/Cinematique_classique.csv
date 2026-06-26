@@ -1,4 +1,0 @@
-Conversion Tonnes Kilogrammes,1T = 1000 kg
-Vecteur vitesse et accélération dans le repère de Frenet,"vec(v) = v • vec(uT)
-
-vec(a) = dv/dt • vec(uT) + v^2 / R • vec(uN)"

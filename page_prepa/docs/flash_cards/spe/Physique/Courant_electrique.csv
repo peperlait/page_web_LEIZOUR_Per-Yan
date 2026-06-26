@@ -1,0 +1,15 @@
+Conductivité électrique statique,"gamma0 = n • e^2 • tau / m
+Avec n la densité volumique d’electron, tau le temps entre deux chocs et m la masse d’un électron"
+"Densité de courant, vitesse des electrons et résistance lineique d’un fil de cuivre de rayon 1mm parcouru par 1A","j ≈ 3 • 10^5 A • m^{-2}
+v ≈ 10^{-5} m/s
+R ≈ 5 • 10^{-3} Ohm/m"
+Force d’interaction entre un electron et le réseau cristallin dans le modèle de Drude,"vec(f) = - m/tau • vec(v)
+Avec m la masse d’un electron, tau le temps entre deux collision et v la vitesse de l’électron"
+Intensite traversant une surface S,"IS(t) = int(M in S)(vec(j)(M, t) • vec(dSM))"
+Limite de validité de la loie d’Ohm,f < 10^12 Hz
+Loi d’Ohm locale,vec(j) = gamma0 • vec(E)
+Puissance volumique cedee par un champ électrostatique a un espace,"Pv(M, t) = (vec(j) • vec(E))(M, t)"
+Resitance d’un conducteur de section S de longueure l,R = l/(gamma0 • S)
+Resultante volumique de la force de Laplace,"vec(fv) = vec(j) ^ vec(B)
+Avec j le vecteur densité de courant"
+Vecteur densité de courant électrique,vec(j) = rho • vec(v)

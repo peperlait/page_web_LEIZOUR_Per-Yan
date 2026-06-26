@@ -1,0 +1,11 @@
+ARQS et critère de validité,"ARQS : Approximation des régimes quasi-stationnaire, les grandeurs varient suffisamment lentement  —> intensité identique en tout point
+
+Critère de validité : tau << T ou L << c * T"
+Relation courant tension d’un condensateur,"i(t) = C • (du / dt (t))
+1 F = 1 C • V^{-1} = 1 A • s • V^{-1}"
+Relation courant tension d’une bobine,"u(t) = L • (di / dt)(t)
+1 H = 1 V • A^{-1} • s"
+Tension aux bornes du condensateur,u(t) = q(t) / C
+Travail,"W = intégral(t0, tf) P(t) dt = E(tf) - E(t0)
+
+Avec P = dE/dt"

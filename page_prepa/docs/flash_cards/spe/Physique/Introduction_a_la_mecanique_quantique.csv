@@ -1,0 +1,19 @@
+Action caractéristique d’un système,"S ~ x • p
+Ou
+S ~ tau • E
+
+Où x, p, tau et E sont des grandeurs caractéristiques du système
+
+S se compare à h/2pi"
+Constante de Planck et constante de planck reduite,"h = 6,63 • 10^{-34} m^2 • kg • s^{-1}
+h/2pi = 1,05 • 10^{-34} J • s"
+Energie d’un photon,E = h • nu
+Equation de Schrodinger,i • h/2pi • drondpsi/drondt = -(h/2pi)^2/(2 • m) • Delta(psi) + V • psi
+Equation de Schrodinger stationnaire,"H(phi) = E • phi
+
+H : phi |—> -(h/2pi)^2/(2 • m) • Delta(phi) + V • phi"
+Indétermination quantique,Delta(g) = sqrt(<g^2> - <g>^2)
+Inégalité de Heinsenberg temps-énergie,tau • DeltaE >= (h/2pi)/2
+Inégalité de Heisenberg spatiale,Deltax • Deltap >= (h/2pi)/2
+Longueur d’onde de De Broglie,lambda = h / p
+Quantité de mouvement (impulsion) des photons,vec(p) = h/2pi • vec(k)

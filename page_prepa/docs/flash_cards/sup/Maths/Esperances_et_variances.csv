@@ -1,0 +1,14 @@
+"E(X • Y) = … si X, Y independantes",… = E(X) • E(Y)
+Esperance de X = a,E(X) = a
+"Esperance de X ~ B(n, p)",E(X) = n • p
+Formule de transfert,E(f(X)) = sum(x in X(Omega))(f(x) • P(X = x))
+Formules de Koenig Huygens,"V(X) = E(X^2) - E(X)^2
+cov(X, Y) = E(X • Y) - E(X) • E(Y)"
+Inégalité de Bienaymé-Tchebytchev,P(|X - E(X)| >= a) =< V(X) / (a^2)
+Inégalité de Markov,P(X >= a) =< E(X) / a
+"sum(k = 1, n)(k^3) = …",… = (n • (n + 1) / 2)^2
+V(a • X + b) = …,… = a^2 • V(X)
+V(X + Y) = …,"… = V(X) + 2 • cov(X, Y) + V(Y)
+… = V(X) + V(Y) si X et Y décorrélées (ou indépendantes)"
+"Variance de X ~ B(n, p)",V(X) = n • p • (1 - p)
+|E(X)| …,|E(X)| =< E(|X|)

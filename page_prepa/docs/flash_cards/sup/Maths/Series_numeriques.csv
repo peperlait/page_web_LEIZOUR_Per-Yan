@@ -1,0 +1,14 @@
+Consequence un ~ vn pour les series,Si sum(un) et sum(vn) de termes positifs elle sont de meme nature
+Divergence grossière,sum(un) diverge grossièrement si (un) ne tend pas vers 0
+Définition serie sommable,Série absolument convergente
+Inégalité serie integrale,"f in C^0([0, + infini[)
+
+Si f decroissante pour tout n in N:
+Integrale(0, n + 1)(f) =< sum(k = 0, n)(f(k)) =< f(0) + integrale(0, n)(f)
+
+sum(f(n)) converge ssi (integrale(0, n)(f))n in N converge"
+Serie de Bertrand,sum(1/(n^a • ln^b(n))) CV ssi a > 1 ou (a = 1 et b > 1)
+Serie de Riemann,Sum(1/n^a) converge ssi a > 1
+"sum(n = 0, + infini)(q^n) = …",… = 1 / (1 - q) si |q| < 1
+"sum(n = 0, + infini)(z^n / n!) = …",… = e^z
+"un = O(vn), (vn) in R+^N, sum(vn) converge => …",… => sum(un) est absolument convergente

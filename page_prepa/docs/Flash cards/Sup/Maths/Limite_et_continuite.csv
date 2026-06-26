@@ -1,3 +1,0 @@
-Caractérisation séquentielle de la limite,"f admet pour limite l en a ssi pour toute suite (un) tendant vers a, (f(un)) tend vers l"
-Théorème des bornes atteintes,"Une fonction continue sur un segment est borné et atteint ses bornes :
-Existe c, d in [a, b], pour tout x in [a, b], f(c) =< f(x) =< f(d)"

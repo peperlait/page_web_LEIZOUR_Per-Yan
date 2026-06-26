@@ -1,0 +1,7 @@
+Arccos’(x) = …,… = -1 / sqrt(1 - x^2)
+Arcsin’(x) = …,… = 1 / sqrt(1 - x^2)
+Arctan’(x) = …,… = 1 / (1 + x^2)
+Formule cos et sin hyperboliques,ch^2(x) - sh^2(x) = 1
+tan(a + b) = …,"… = (tan(a) + tan(b)) / (1 - tan(a) • tan(b)) avec a, b et a + b non congru à pi / 2 [pi]"
+tan’(x) = …,… = 1 / cos^2(x) = 1 + tan^2(x)
+Valeurs remarquables de tan(x) : x = 0; pi / 6; pi / 4; pi / 3,tan(0) = 0; tan(pi / 6) = 1/sqrt(3); tan(pi / 4) = 1; tan(pi / 3) = sqrt(3)

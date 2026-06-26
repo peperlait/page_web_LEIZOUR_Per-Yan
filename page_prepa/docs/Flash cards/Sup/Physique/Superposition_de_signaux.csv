@@ -1,9 +1,0 @@
-Amplitude de la somme de deux signaux sinusoïdaux,"A = sqrt(A1^2 + A2^2 + 2A1 • A2 • cos(phi2 - phi1))
-—> permet d’étudier l’interférence de deux signaux"
-Forme générale d’une onde stationnaire sinusoïdale,"s(x, t) = (A•cos(omega • t) + B•sin(omega • t)) • (C•cos(k • x) + D•sin(k • x))
-phi : phase initiale
-psi : phase a l’origine"
-Modes propres d’une corde fixée à ses extrémités,"Yn(x, t) = 2A • cos(omegan • t + phi) • sin(kn • x)
-
-kn = n • pi / L
-omegan = n• pi • c / L"

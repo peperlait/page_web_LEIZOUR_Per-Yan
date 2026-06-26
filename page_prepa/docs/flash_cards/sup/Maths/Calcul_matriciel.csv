@@ -1,0 +1,7 @@
+Ensemble des matrices diagonales et des matrices triangulaires,"Diagonales : Dn(K)
+
+Triangulaire : Tn+(K) ou Tn-(K)"
+Inversibilitée de A^T avec A in GLn(K),A^T inversible et (A^T)^{-1} = (A^{-1})^T
+"Matrice inversible d’une matrice :
+A = (a b // c d)",A^{-1} = (1 / (a • d - b • c)) • (d -b // -c a)
+Matrice nilpotente,"Il existe k in N, M^k = 0n"

@@ -1,6 +1,0 @@
-Afficher un message d’erreur,"assert test, « message si test raté »"
-Associer une documentation à une fonction  + appeler la documentation,"def fonction () :
-    ‘’’’’’ … ‘’’’’’
-
-Dans la console : ?Bibliothèque.fonction"
-Fonction enumerate(« mot »),"Analogue a range : renvoie les couples i, e pour chaque lettre avec i le rang de la lettre et e la lettre"

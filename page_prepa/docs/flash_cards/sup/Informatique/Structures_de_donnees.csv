@@ -1,0 +1,4 @@
+Changer une liste en la concaténation de la liste avec une autre liste,L1.extend(L2)
+Commande conversion ASCII,"ord() : caractère —> code
+chr() : code —> caractère"
+Éléments d’un tuple ou d’une liste par pas de k,i : j : k

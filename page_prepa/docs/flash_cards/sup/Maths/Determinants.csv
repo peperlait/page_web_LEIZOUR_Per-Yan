@@ -1,0 +1,12 @@
+"A in Mn(K), det(a • A) = …",… a^n • det(A)
+Det (A • B) = …,det(A) • det(B)
+Determinant d’une matrice triangulaire,Produit des coefficients de la diagonale
+Fonction alternée,"Pour tout j in [1, n] :
+f(x1, …, xj, …, xj, …, xn) = 0"
+Fonction antisymétrique,"Pour tout i, j in [1, n], i ≠ j:
+f(x1, …, xi, …, xj, …, xn) = - f(x1, …, xj, …, xi, …, xn)"
+Formule développement suivant la j-eme colonne ou la i-eme ligne,"det(M) = sum(i = 1, n)((-1)^{i+j} • mi,j • det(Ai,j)
+
+det(M) = sum(j = 1, n)((-1)^{i+j} • mi,j • det(Ai,j)
+
+Avec (Ai,j) les matrices de tailles M obtenues en enlevant la ligne i et la colonne j"

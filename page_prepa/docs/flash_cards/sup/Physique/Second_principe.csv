@@ -1,0 +1,12 @@
+Def transformation isentropique,L’entropie est constante au cours de la transformation
+Entropie d’un système isolé,"Delta S = Sc >= 0
+S = kB • ln(Omega)"
+Entropie echangé au contact d’un termostat,Q / Tthermostat
+Entropie massique de changement d’état,"s = s1 + x2 • Deltas1-2
+Deltas1-2 = s2 - s1 = Deltah1-2/T"
+Lois de Laplace,"Pour un gaz parfait subissant une transformation isentropique (remplace le 2nd principe):
+P • V^gamma = cste
+P^{1 - gamma} • T^gamma = cste’
+T • V^{gamma - 1} = cste’’"
+Second principe de la thermodynamique,"Delta S = Se + Sc
+Sc >= 0"

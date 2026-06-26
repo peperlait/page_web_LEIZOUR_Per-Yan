@@ -1,0 +1,9 @@
+Condition générale pour avoir des interferences suffisamment contrastées,"delta1/2(M) < lc
+Avec lc la longueur de coherence du signal"
+Definition interferances localisées,Il n’existe qu’un lieu d’observation optimale des interferences
+Définition champ d’interférence,"Zone de l’espace eclairée par 2 ondes cohérentes, là où on peut observer des interférences"
+Définition contraste ou visibilité,C = (Emax - Emin)/(Emax + Emin)
+Définition franges d’interférences,Intersection de la surface de l’onde résultante avec un ecran
+Définition interférence,L’éclairement résultant de la superposition de deux ondes n'est pas la somme de deux éclairement
+Définition ondes cohérentes,Leur terme d’interférence n’est pas identiquement nul
+Formules de Fresnel,E(M) = E1(M) + E2(M) + 2 • sqrt(E1(M) • E2(M)) • cos(Deltaphi1/2(M)) = Emoy(1 + C • cos(Deltaphi1/2(M)))

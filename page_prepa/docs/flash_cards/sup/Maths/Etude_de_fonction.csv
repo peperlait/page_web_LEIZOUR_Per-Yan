@@ -1,0 +1,8 @@
+Dérivé d’une réciproque,"f^{-1} derivable ssi f’ ne s’annule pas
+
+(f^{-1})’(x) = 1 / (f’(f^{-1}(x)))"
+Inégalité avec la fonction exponentielle par rapport a la premiere bissectrice,pour tout x in R e^x >= x + 1
+Inégalité avec la fonction ln par rapport a la premiere bissectrice,"pour tout x in ] -1, + infin [ ln(1 + x) <= x"
+Inégalité de la fonction sinus par rapport a la première bissectrice,"Pour tout x in R, |sin(x)| =< |x|"
+lim(x —> - infini)(x • e^x) = …,… = 0
+lim(x —> 0^+)( x • ln(x)) = …,… = 0

@@ -1,9 +1,0 @@
-Equation barometrique,"Dans un liquide homogène:
-P(h) = P0 + rho • g • h
-Avec h la profondeur
-
-Sur une hauteur de 10 metres la pression augmente de 1 bar"
-Pression dans une atmosphère isotherme assimilée à un gaz parfait,"P(z) = P0 • e^{-z/H}
-Avec H = R • T0 / (M • g) une hauteur entre 50 et 100 kilomètres (1/10 de l’epaisseur de l’atmosphère)"
-Relation fondamentale de la statique des fluides,vec(grad(P)(M)) = rho(M) • vec(g)
-Resultante des forces de pression,dvec(Fpression) = - vec(grad(P)(M)) • dV

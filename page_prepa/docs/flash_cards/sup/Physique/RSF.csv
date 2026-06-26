@@ -1,0 +1,10 @@
+Arg(z),"arctan(y / x) si x > 0
+pi - arctan(y / |x|) si x < 0"
+Formules phase,"phi 2/1 = phi 1 - phi 2
+Delta t2/1 = (phi 2/1) / omega
+Delta t2/1 / T = (phi 2/1) / 2pi"
+Impédance complexes à connaître,"Résistance : R
+Condensateur : 1 / (j • C • omega)
+Bobine : j • L • omega"
+Largeur du pic de résonance d’instensité du circuit RLC et critères,"Im(omega) >= Imax/sqrt(2)
+Delta omega = omega 0 / Q"

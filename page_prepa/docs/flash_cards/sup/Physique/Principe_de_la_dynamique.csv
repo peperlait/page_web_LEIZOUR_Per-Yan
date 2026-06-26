@@ -1,0 +1,11 @@
+Constante gravitationnelle,"G = 6,67 • 10^{-11} m^3 • kg^{-1} • s^{-2}"
+Loi de Hook,vec(F) = -k • (l - l0) • vec(uext)
+Lois de Newton,"1e: Principe d’inertie: Il existe une classe de référentiels privilégiés appelés référentiels Galileens dans lesquels …
+
+2e: principe fondamental de la dinamique: dp/dt = sum( i forces)(vec(Fi))
+
+3e: principe d’action réaction"
+Poussé d’Archimede,vec(Pi) = -rhofluide • Vimmergé • vec(g)
+Système pseudo isolé,Les forces extérieures se compensent
+Théorème de la quantité de mouvement,"Si S est un système fermé on a:
+dvec(p)/dt = vec(Fext)"

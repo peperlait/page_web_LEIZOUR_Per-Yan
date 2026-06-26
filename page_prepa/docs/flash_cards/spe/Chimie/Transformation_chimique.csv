@@ -1,0 +1,20 @@
+Critere d’évolution spontanée,DeltarG • dksi = -T • deltaSc
+DeltarG = …,… = RT • ln(Qr / K^0)
+dG = …,… = VdP - SdT - T • deltaSc
+Définition de la constante thermodynamique,K^0 = exp(-DeltarG^0 / (R • T))
+Définition de la variance,À l’équilibre : nombre necessaire et suffisant de variables intensives indépendantes
+Définition facteurs d’équilibre,"Paramètres descriptif du système en équilibre dont une variation entraîne un déplacement ou une rupture d’équilibre du système
+
+Ex :
+- T facteur d’équilibre tant que 
+
+DeltarH^0 ≠ 0
+- P facteur deux tant que sum(i gazes)(nui) ≠ 0"
+Loi de Van t’Hoff,dln(K^0(T))/dT = DeltarH^0 / (R • T^2)
+Nombre de degrés de liberté L = …,"… = v - k
+
+Avec k le nombre de contraintes expérimentales : T ou P non facteurs d’équilibre, T ou P fixé, reactifs ou produits en proportion stœchiométrique"
+Temperature d’inversion,"Ti tq DeltarG^0(Ti) = 0
+
+Ti = DeltarH^0 / DeltarS^0
+—> defini si DeltarH^0 et DeltarS^0 de meme signe"

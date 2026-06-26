@@ -1,9 +1,0 @@
-"Conditions de Gauss, approximation paraxiale","Système optique centre tel que :
-- les rayons son peu incliné par rapport a l’axe optique
-- les rayons son peu eloigne de l’axe optique
-
-—> on parle de stigmatisme et aplanetisme approche"
-Relation de Newton avec origines aux foyers,"(F’A’) • (FA) = -f^2
-gamma = -(F’A’) / f’ = -f / (FA)"
-Relations de Descartes avec origines au centre optique,"(1 / _(OA’)) - (1 / _(OA)) = 1 / f’
-gamma = _(OA’) / _(OA)"

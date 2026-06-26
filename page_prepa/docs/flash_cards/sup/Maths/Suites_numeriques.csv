@@ -1,0 +1,7 @@
+"Borne sup, borne inf","Borne sup : plus petit des majorants
+Borne inf : plus grand des minorants"
+Lemme de Cesaro,"Soit un —> l
+Alors vn = 1/n • sum(un) —> l"
+Suite adjacente,"(Un) décroissante
+(Vn) croissante
+(Un - Vn) converge"

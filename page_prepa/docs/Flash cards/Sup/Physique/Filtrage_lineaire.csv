@@ -1,6 +1,0 @@
-Décomposition en serie de fourrier d’un signal périodique,"A0 + sum(n = 1, + infini)(An • cos(2pi • n • fs • t + phin))"
-Fonctions de transfert à connaître,"Passe bas : numérateur constant
-
-Passe haut et passe bande : numérateur linéaire"
-Valeur efficace d’un signal périodique,"sqrt(< u^2(t) >) = sqrt(A0^2 + sum(1, + infini)(An^2 / 2))"
-Valeur efficace d’un signal sinusoïdale,Um / sqrt(2)

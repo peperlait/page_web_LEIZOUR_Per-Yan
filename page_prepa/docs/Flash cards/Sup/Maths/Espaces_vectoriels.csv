@@ -1,6 +1,0 @@
-Formule de Grassmann,dim(F + G) = dim(F) + dim(G) - dim(F inter G)
-"Si (f1, …, fn) et (g1, …, gp) sont des base de F et G respectivement alors si F et G sont supplémentaires dans E …","… (f1, …, fn, g1, …, gp) est une base de E"
-Théorème de la base incomplète,"E un K espace vectoriel de dimensions n in N*
-(xi)i in [1, p], p =< n une famille libre de E
-
-Il existe xp+1, …, xn in E, tels que (xi) i in [1, n] soit une base de E"

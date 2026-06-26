@@ -1,0 +1,16 @@
+Equation de l’oscillateur amorti,"(d^2S / dt^2)(t) + (omega0 / Q) • (dS / dt)(t) + omega0^2 • S(t) = omega0^2 • e(t)
+
+Solutions générales
+Q > 1/2 Delta < 0 :
+exp(-t / tau)(A • cos(Omega • t) + B • sin(Omega • t))
+
+Q < 1/2 Delta > 0 :
+A • exp(-t / tau1) + B • exp(-t / tau2)
+
+Q = 1/2 Delta = 0 :
+exp(-omega0 • t)(A + B • t)"
+Equation de l’oscillateur harmonique,"(d^2S / dt^2)(t) + omega0^2 • S(t) = 0
+
+Solution générale :
+S(t) = A • cos(omega0 • t) + B • sin(omega0 • t)"
+Evolution qualitative du temps caractéristique de décroissance exponentielle d’un oscillateur amorti par rapport a Q,

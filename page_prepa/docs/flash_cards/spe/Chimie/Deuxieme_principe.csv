@@ -1,0 +1,30 @@
+Definition potentiel chimique,mui = drondG/drondni
+Enthalpie libre,"G = H - TS
+dG = - TdeltaSc + deltaWu"
+Identité thermodynamique sur dG,dG = VdP - SdT + DeltarG • dKsi 
+Identité thermodynamique sur dH,dH = TdS + VdP
+Identité thermodynamique sur dU,dU = TdS - PdV
+Identités d’Euler,"G = sum(i)(ni • mui)
+
+V = sum(i)(ni • vi)
+
+H = sum(i)(ni • hi)
+
+S = sum(i)(ni si)"
+Potentiel chimique d’un constituant d’un melange,"mui = muiref + RT • ln(ai)
+
+muiref est le potentiel chimique du constituant pur"
+Potentiel chimique d’un gaz pur,mu* = mu^0 + RT • ln(P/P^0)
+Potentiel chimique pour une phase condensée pur,"mu* = mu^0 + int(P, P^0)(Vm* • dP)"
+Relation de Gibs Duhem,"À T et P constants:
+sum(i)(ni • dmui) = 0
+
+Au sein d’une meme phase:
+sum(i)(xi • dmui) = 0"
+Relation de Gibs Helmhotz,"drond(G/T) / drondT = - H / T^2
+
+d(DeltarG^0/T) / dT = - DeltarH^0 / T^2"
+Relations de Maxwell,"On défini les grandeurs T, P, V et S a l’aide des identités thermodynamique et de la definition d’une différentielle
+
+En particulier :
+S = -(drondG/drondT)p"

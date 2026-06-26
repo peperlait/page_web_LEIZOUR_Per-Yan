@@ -1,0 +1,23 @@
+Corolaire du théorème du rang,"E de dimension finie, u in L(E, F)
+
+u injectif ssi rg(u) = dim(E)
+u surjectif ssi rg(u) = dim(F)"
+Definition hyperplan,Noyau d’une forme linéaire non nulle
+Définition endomorphisme,"u in L(E, E) = L(E)"
+Définition isomorphisme,"u in L(E, F) bijective"
+Lien entre deux formes linéaire non nuls phi et psi si H = ker(phi) = ker(psi) est un hyperplan,Phi et psi sont proportionnel
+"Propositions composées sur le rang de u in L(E, F)","v isomorphisme de F dans G
+rg(vou) = rg(u)
+
+v isomorphisme de G dans E
+rg(uov) = rg(u)
+
+rg(vou) =< min(rg(v), rg(u))"
+Relation entre une symétrie et une projection,"F (+) G = E
+s in L(E) symétrie par rapport à F parallèlement à G
+p in L(E) projection sur F parallèlement à G
+
+s = 2 • p - IdE"
+Théorème du rang,"E de dimension finie, u in L(E, F)
+
+dim(E) = rg(u) + dim(ker(u))"

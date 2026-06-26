@@ -9,17 +9,36 @@
     flex-wrap: wrap;
 }
 
+nav {
+    background-color: #ff4b96;
+    padding: 7px;
+    border-radius: 10px;
+}
+
 h1 {
     color: white;
-    font-size: 3em;
+    font-size:4em;
     text-align: center;
     margin: auto;
     padding: auto;
 }
 
+h2 {
+    font-size: 3em;
+}
+
+h3 {
+    font-size: 2em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
 main {
     background-color: #ffcfe3;
     padding: 20px;
+    flex: 1;
 }
 
 p {
@@ -43,6 +62,9 @@ a:active {
 body {
     background-color: #ff71ac;
     margin: 0%;
+    display: flex;
+    flex-direction: column;
+    min-height: 100dvh;
 }
 
 .document {
@@ -55,6 +77,17 @@ body {
 img:hover[class="document"] {
     height: 160px;
     width: 160px;
+}
+
+.flashcard {
+    background-color: #ff4b96;
+    box-shadow: 3px 3px 0px #ff71ac;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+a:hover[class="flashcard"] {
+    font-size: 1.25em;
 }
 
 .photo {
@@ -102,6 +135,8 @@ footer {
     flex-direction: row;
     align-items: center;
     flex-wrap: wrap;
+    background-color: #ff4b96;
+    padding: 7px;
     border-radius: 10px;
 }
 
@@ -111,6 +146,11 @@ footer {
     height: 50px;
     width: 50px;
     display: inline-block;
+}
+
+img:hover[class="social"] {
+    height: 55px;
+    width: 55px;
 }
 
 @media screen and (max-width: 1200px) {
@@ -126,12 +166,20 @@ footer {
         font-size: 3em;
     }
 
+    h4 {
+        font-size: 2em;
+    }
+
     p {
         font-size: 2em;
     }
 
     a {
         font-size: 2em;
+    }
+
+    a:hover[class="flashcard"] {
+        font-size: 2.5em;
     }
 
     .photo {
@@ -161,5 +209,10 @@ footer {
     .social {
         height: 75px;
         width: 75px;
+    }
+
+    img:hover[class="social"] {
+        height: 85px;
+        width: 85px;
     }
 }

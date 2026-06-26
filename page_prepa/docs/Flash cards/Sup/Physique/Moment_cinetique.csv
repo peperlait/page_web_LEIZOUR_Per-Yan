@@ -1,3 +1,0 @@
-Moment cinetique d’un point M par rapport a un point A,vec(LA) = vec(AM) ^ vec(p)
-Moment d’une force F appliquée sur le point M par rapport a un point A,vec(MA(vec(F)) = vec(AM) ^ vec(F)
-Théorème du moment cinetique par rapport a un point fixe,dvec(LA)/dt = sum(i forces extérieures)(vec(MA(vec(Fi)))

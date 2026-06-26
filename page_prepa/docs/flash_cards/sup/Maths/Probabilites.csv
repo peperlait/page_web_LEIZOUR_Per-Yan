@@ -1,0 +1,10 @@
+"(A)i in [1, n] mutuellement indépendants","Pour tout sous ensemble I de [1, n] P(inter(i in I)(Ai) = produit(i in I)(P(Ai))"
+"Evenement elementaire, contraire, incompatible, impliqué","Elementaire : {w}
+Contraire : A bar
+Incompatible : A inter B = vide
+A implique B : A dans B"
+Formule des probabilités composées,P(A1 inter … inter An) = P(A1) • P(A2|A1) • P(A3|A1 inter A2) • P(An|A1 inter … inter An-1)
+Formule des probabilités totales,"(A1, …, An) un système complet d’événements
+P(B) = sum(i = 1, n)(P(B inter Ai)) = sum(i = 1, n)(PAi(B) • P(Ai))"
+Loi conjoite de X et Y,"Z = (X, Y)"
+P(A\B) = …,… = P(A) - P(A inter B)
