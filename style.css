@@ -124,6 +124,39 @@ img:hover[class="photo"] {
     width: 150px;
 }
 
+.annonce {
+    color: white;
+    background-color: #ff71ac;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    h3 {
+        background-color: #ff4b96;
+        padding: 7px;
+        border-radius: 10px;
+        margin: 5px 0;
+    }
+}
+
+.profil {
+    background-position: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    padding: 15px;
+    align-items: center;
+}
+
+.profil_img {
+    width: 200px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
 footer {
     color: white;
     background-size: cover;
@@ -210,6 +243,10 @@ img:hover[class="social"] {
 
     .licence_img {
         width: 200px;
+    }
+
+    .profil_img {
+        width: 250px;
     }
 
     .social {
